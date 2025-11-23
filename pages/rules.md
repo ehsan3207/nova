@@ -33,15 +33,13 @@ refactor(core): simplify validation logic
 docs(api): update usage examples
 
 !!! note ""
-
+```js
 ## Front-end
-
 
 درون هر تابع باید کارایی آن تابع مشخص شود مانند مثال زیر:
 
 
 
-```js
 
 
 function factorial(n) {
