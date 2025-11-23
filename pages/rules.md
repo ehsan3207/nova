@@ -24,6 +24,9 @@ refactor(core): simplify validation logic
 docs(api): update usage examples
 ```
 
+## front-end
+
+
 ```js
 function factorial(n) {
     /*
